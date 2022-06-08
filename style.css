@@ -1,0 +1,12 @@
+body { 
+    text-align: center; }
+     h1 { 
+         font-size: 40px; font-family: sans-serif; font-weight: 300; }
+          #apps {
+               background-color: rgb(5, 214, 246); }
+                #games{ 
+                    background-color:rgb(60, 0, 255); } 
+                    .line { 
+                        height: 6px; background-color: rgb(217, 250, 0); width: 70px; margin: 8px auto; }
+                        #chatbot{ 
+                            background-color:rgb(208, 0, 255); }
